@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E01 - Todo o Nada
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E02 - Rompecabezas
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/02.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E03 - Plan B
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/03.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E04 - Trampa para Ratas
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/04.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E05 - Funeral para un Amigo
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/05.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E06 - Blues de Amberes
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/06.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E08 - Caos y Confusión
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/08.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E09 - Banquete de Mendigos
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/09.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg" group-title="Temporada 1",S01E10 - La Bestia Interior
+https://archive.org/download/01_20250714_20250714_1531/upload/linux/10.mp4
