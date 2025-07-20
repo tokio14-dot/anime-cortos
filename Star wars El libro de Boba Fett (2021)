@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1200       # Buffer ideal para 1080p en PS3
+#EXTVLCOPT:deinterlace-mode=yadif     # Desentrelazado óptimo
+#EXTVLCOPT:avcodec-hw=dxva2           # Aceleración por hardware
+#EXTVLCOPT:no-ts-trust-pcr            # Sincronización precisa
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x01 - Extraño en tierra hostil
+https://dl.dropbox.com/scl/fi/1plvcrmmwaxshey4i0t5k/libro-fisica-1.mp4?rlkey=4cpg7746le7d7e7mkzzy3xgma&st=rm7le1k6&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x02 - Las tribus de Tatooine
+https://dl.dropbox.com/scl/fi/4u1v9apktmwog27brkxhm/libro-fisica-2.mp4?rlkey=8g5ndkbsleudcpipmllawzg4f&st=n5gqnj7a&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x03 - Las calles de Mos Espa
+https://dl.dropbox.com/scl/fi/d5qtn00n4nxvmykowexed/libro-fisica-3.mp4?rlkey=kxkgng5tav8kjzgjynn3ra92m&st=1tpm5qjd&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x04 - El sindicato del crimen
+https://dl.dropbox.com/scl/fi/yox9d43iifpp58h8htl5y/libro-fisica-4.mp4?rlkey=xtp26a7zldpcjoq9ihxu7xep8&st=29yul7tk&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x05 - Regreso de un cazarrecompensas
+https://dl.dropbox.com/scl/fi/74rhob7b6ha3u2fjwayno/libro-fisica-5.mp4?rlkey=69gj79y0hev9aipkwnk5cniag&st=9dnkmyrq&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x06 - Desde las arenas
+https://dl.dropbox.com/scl/fi/mrn4mguy4hs6v7uqikzc9/libro-fisica-6.mp4?rlkey=s0n6c0jkz4o0bsbq729uylabp&st=yae3l4ir&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f6WzBYBe7sMkD2n3QY17ypYOd1f.jpg", 1x07 - Honor y gloria
+https://dl.dropbox.com/scl/fi/f63ir7m0edw77xwz6l17k/libro-fisica-7.mp4?rlkey=3lioffxhodqkkt9syeltbo28v&st=cuc43zfw&dl=1
