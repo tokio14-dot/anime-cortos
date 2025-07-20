@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=1200       # Buffer ideal para 1080p en PS3
+#EXTVLCOPT:network-caching=1000       # Buffer ideal para 1080p en PS3
 #EXTVLCOPT:deinterlace-mode=yadif     # Desentrelazado óptimo
 #EXTVLCOPT:avcodec-hw=dxva2           # Aceleración por hardware
 #EXTVLCOPT:no-ts-trust-pcr            # Sincronización precisa
