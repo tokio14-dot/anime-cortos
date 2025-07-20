@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1200       # Buffer ideal para 1080p en PS3
+#EXTVLCOPT:deinterlace-mode=yadif     # Desentrelazado óptimo
+#EXTVLCOPT:avcodec-hw=dxva2           # Aceleración por hardware
+#EXTVLCOPT:no-ts-trust-pcr            # Sincronización precisa
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x01 - El mensaje (Kassa)
+https://dl.dropbox.com/scl/fi/mugapqa5hguvsfdcu2p1x/fisica-1.mp4?rlkey=5gpavphqt5k5x65v20ls0icwe&st=241gsd73&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x02 - Ese sería yo
+https://dl.dropbox.com/scl/fi/m9j932htwr9dmdbsrjr68/fisica-2.mp4?rlkey=tgrmbclvt9of2hk8g5wugh0vp&st=yhfh5cd5&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x03 - El ajuste de cuentas (Reckoning)
+https://dl.dropbox.com/scl/fi/kazzknsx2ygro9kpz5jmu/fisica-3.mp4?rlkey=7z5du54mt9q0gn9wxpxpoyvmk&st=tds5reva&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x04 - La misión Aldhani
+https://dl.dropbox.com/scl/fi/pf2wfval6d3s6669s4u2p/fisica-4.mp4?rlkey=r4gh3n7se0vfwx8os2i9enjdw&st=mw8vi5a9&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x05 - El hacha olvida (The Axe Forgets)
+https://dl.dropbox.com/scl/fi/r75fo6ng3u6vq3ypq53ty/fisica-5.mp4?rlkey=i0wzq8838y5s8khi6zqosj1ir&st=7mq2cjmr&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x06 - El ojo (The Eye)
+https://dl.dropbox.com/scl/fi/gzcup8snywq00spvw6jsw/fisica-6.mp4?rlkey=a59vr2w4nw0ejq8x3ugl3udou&st=c3dzoim7&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x07 - El anuncio (Announcement)
+https://dl.dropbox.com/scl/fi/095wn5tefvbv234fepfaw/fisica-7.mp4?rlkey=qs6rlz3ss9ceswcx5eeg5ip57&st=ptkmn3uv&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x08 - La prisión de Narkina 5
+https://dl.dropbox.com/scl/fi/uqhchc90zbatic33f57r9/fisica-8.mp4?rlkey=kzh9ks43r1ocqkorgenlrti4v&st=8zfqk5q3&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x09 - Nadie escucha! (Nobody's Listening!)
+https://dl.dropbox.com/scl/fi/8fnkr3su57l1w5f8ht2hs/fisica-9.mp4?rlkey=unj8dzz99c4z7d2ki9ykvtnt9&st=rqj5ds1m&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x10 - Sin salida (One Way Out)
+https://dl.dropbox.com/scl/fi/p5q4buqf1nf88s2w1eo71/fisica-10.mp4?rlkey=enrgeile59ugk3vybhqhpgznx&st=40ajad76&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x11 - La hija de Ferrix
+https://dl.dropbox.com/scl/fi/il7p8l8fk07grvu3gpqr1/fisica-11.mp4?rlkey=0d9u2qqg2u4bq3q9wx12mx38p&st=3awjhucq&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg" group-title="Star Wars: Andor", 1x12 - El camino de Rix
+https://dl.dropbox.com/scl/fi/05kl3kuebuqcvqdp80yni/fisica-12.mp4?rlkey=gt7lv3ai0culogj9gfzm96t6c&st=4swzb5br&dl=0
