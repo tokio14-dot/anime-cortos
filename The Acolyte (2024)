@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eIgrqYxUPcPyNDXRmPsInnXhBZf.jpg" group-title="The Acolyte (2024)", 1x01 - El Secreto de las Hermanas
+https://dl.dropbox.com/scl/fi/wp8dc7dbtega61p78i8go/naturales-1.mp4?rlkey=nap1dormbbie6v032e82stypi&st=xkb68848&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1kr96FdNyP0K1XGpmIVgaqSRzsV.jpg" group-title="The Acolyte (2024)", 1x02 - La Red de la Fuerza
+https://dl.dropbox.com/scl/fi/psgrf6t1byxuur4ryc8jv/naturales-2.mp4?rlkey=kx77ed98d4l2tn4u7pdqs9j4l&st=gszivc91&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8uV2wFpx1di7Lqba9K23T25Qwp.jpg" group-title="The Acolyte (2024)", 1x03 - El Juicio del Maestro
+https://dl.dropbox.com/scl/fi/csqbwlmccqzgelg8bl1og/naturales-3.mp4?rlkey=k4ybe6qkswkmsur9hjtyx06bm&st=di1y7bm6&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yWKPYjbkV8Bb9JLSKsX7KEQCuoh.jpg" group-title="The Acolyte (2024)", 1x04 - El Legado Perdido
+https://dl.dropbox.com/scl/fi/vzt4ykh83wzkilzk11gca/naturales-4.mp4?rlkey=h7s6zugel3wzk8xhygpw3ieav&st=hy0fzr03&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwronSXO1ogMqHHFvY2eBxfFLdn.jpg" group-title="The Acolyte (2024)", 1x05 - La Traición
+https://dl.dropbox.com/scl/fi/4d7c7julih8mzha8i986o/naturales-5.mp4?rlkey=n5hnq8q96cl2cvnji2nppc8oi&st=8edtgdr4&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nFeMIfez8KTnflu4rS1IbCrQn4.jpg" group-title="The Acolyte (2024)", 1x06 - Revelaciones Oscuras
+https://dl.dropbox.com/scl/fi/0n0g16lf61ze50fq6gcxt/naturales-6.mp4?rlkey=rfbcgm3c113fusp0w8y80hs31&st=8yar1pka&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9InjTzqg6yl1xUyca1FBAHHfUh3.jpg" group-title="The Acolyte (2024)", 1x07 - El Último Combate
+https://dl.dropbox.com/scl/fi/39xnhp74gctg9akxg041i/naturales-7.mp4?rlkey=9irax0e990u87ncxljgxfsmic&st=juyyojbl&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lBj9buCmGeoszP70xlatxoPaYWa.jpg" group-title="The Acolyte (2024)", 1x08 - El Nacimiento del Acolyte
+https://dl.dropbox.com/scl/fi/0w5d9el29ou53iizdjgnw/naturales-8.mp4?rlkey=pe4zjmk17lz9n7ejqwxq2k8ac&st=rlxkcbok&dl=0
