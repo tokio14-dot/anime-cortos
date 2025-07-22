@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:clock-jitter=0
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x01 - El Poder de un Jedi
+https://dl.dropbox.com/scl/fi/e177p9lavg0wmzp075qcy/sociales-1.mp4?raw=1&rlkey=6ucchiqc7ralszzb7h35i2k3i&st=v5xtlmvn
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x02 - La Sabiduría de Yoda
+https://dl.dropbox.com/scl/fi/abe7pydgsgfhkuhc9dmw2/sociales-2.mp4?raw=1&rlkey=69l299trf79l9469ak0agzvgp&st=pj9p19k0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x03 - La Elección de Padmé
+https://dl.dropbox.com/scl/fi/hysxkudr12iuqa5jr7mlh/sociales-3.mp4?raw=1&rlkey=0blrhn2jwys13nt2v2vqyukdp&st=c8vauecd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x04 - La Prueba de Leia
+https://dl.dropbox.com/scl/fi/5iacye7bfq3t7ksczorrd/sociales-4.mp4?raw=1&rlkey=clektkec01g8pj5pw9oopk9ls&st=xi6u2fyh
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x05 - El Valor de Sabine
+https://dl.dropbox.com/scl/fi/sjuqa47lt4mkhcsx54nvn/sociales-5.mp4?raw=1&rlkey=r64f1yawogbgmlsulxijshn0f&st=ql3rxoky
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x06 - La Lección de Ahsoka
+https://dl.dropbox.com/scl/fi/1m1yr7jrrbji9s5difvdh/sociales-6.mp4?raw=1&rlkey=8bv66rtuopi2cmuzuo4jcukz9&st=t8q91wle
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x07 - El Sacrificio de Rey
+https://dl.dropbox.com/scl/fi/yamn6z7untov8evy6qt3a/sociales-7.mp4?raw=1&rlkey=vm3lwozpa9x5n4jzy5epi8osw&st=0ejcdfl8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x08 - La Fuerza de Jyn
+https://dl.dropbox.com/scl/fi/fpsorz0huz6j84088u8v0/sociales-8.mp4?raw=1&rlkey=yy7dqb6wtdj7hdyd66v0hek3y&st=rvltlwfi
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x09 - El Coraje de Hera
+https://dl.dropbox.com/scl/fi/hcvjcjgdberki097czfz3/sociales-9.mp4?raw=1&rlkey=hhuaxmvnn3jic05w7gde1vzdq&st=4zcabavm
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x10 - La Astucia de Maz
+https://dl.dropbox.com/scl/fi/6h1nxagj15ew5hinf0n5o/sociales-10.mp4?raw=1&rlkey=5tollkriwlot3zbxoca0lxn8b&st=k747kp35
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x11 - La Decisión de Ketsu
+https://dl.dropbox.com/scl/fi/816uomba4e4xo0bnfuvdo/sociales-11.mp4?raw=1&rlkey=knvppcwy72a9uz0gj930jd1qj&st=4ddl5c8k
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x12 - La Misión de Rose
+https://dl.dropbox.com/scl/fi/g90tmtdiuut500ncv2aim/sociales-12.mp4?raw=1&rlkey=o81g4auh4ssxbbncb3p6satog&st=rpy1htmn
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x13 - El Destino de Asajj
+https://dl.dropbox.com/scl/fi/p3bxhnwde4ranh6kbjner/sociales-13.mp4?raw=1&rlkey=u5xcxsvt71p6jmg6tucywef7m&st=6cm6qrdh
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x14 - La Promesa de Qi'ra
+https://dl.dropbox.com/scl/fi/irpzwcifaaz0ilu1lig39/sociales-14.mp4?raw=1&rlkey=wlqqbfj0r7gdi7pcory9y9ulg&st=y2y90qep
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdiiARp5O75rMoT2ybdJ322NgJe.jpg" group-title="Star Wars: Fuerzas del Destino (2017)", 1x15 - El Legado de Ventress
+https://dl.dropbox.com/scl/fi/jf1ggtoxkelw5r6ti9ulh/sociales-15.mp4?raw=1&rlkey=p8eo4ui0ifylx2exltcnfzzce&st=oye4dqg6
+
+
+
+
+
