@@ -2,6 +2,8 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:deinterlace-mode=yadif
 #EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:clock-jitter=0
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eIgrqYxUPcPyNDXRmPsInnXhBZf.jpg" group-title="The Acolyte (2024)", 1x01 - El Secreto de las Hermanas
 https://dl.dropbox.com/scl/fi/wp8dc7dbtega61p78i8go/naturales-1.mp4?rlkey=nap1dormbbie6v032e82stypi&st=xkb68848&dl=0
