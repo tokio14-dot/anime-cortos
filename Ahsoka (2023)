@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:clock-jitter=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/10xJ4fvwzdmHD42I9HptY5Jf1FJ.jpg" group-title="Ahsoka (2023)", 1x01 - Maestro y Aprendiz
+https://dl.dropbox.com/scl/fi/hjdryn276qm69ix9ow2vl/fisica-1.mp4?raw=1&rlkey=18xn1g0fo596k5ope16aktz98&st=bhvc5s6a
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2eVRsuLcqeBZaFJPNbm6IKiNHje.jpg" group-title="Ahsoka (2023)", 1x02 - Huellas en la Galaxia
+https://dl.dropbox.com/scl/fi/12qtu9935ci70co32lgxs/fisica-2.mp4?raw=1&rlkey=um84vz751lfws7piudg2hkzfj&st=4k4i0chp
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sWYy1Fn84kDZO3oAoVmp96JjrsI.jpg" group-title="Ahsoka (2023)", 1x03 - Tiempo para Sobrevivir
+https://dl.dropbox.com/scl/fi/14qoj8gngk74o26dam58z/fisica-3.mp4?rlkey=gbiu66deqss7klx4l97g9ifxb&st=9oc9rl5x&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mvoW41kdSxiobGZ9ONL1Tqrpt3h.jpg" group-title="Ahsoka (2023)", 1x04 - La Caída del Jedi
+https://dl.dropbox.com/scl/fi/wztwf6pyeq5ot2o6k35ct/fisica-4.mp4?raw=1&rlkey=2oih4ipfiocpb5q5amnoe8koe&st=5c15irsh
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg" group-title="Ahsoka (2023)", 1x05 - La Sombra del Guerrero
+https://dl.dropbox.com/scl/fi/ndb1w1ph631r0f081n01n/fisica-5.mp4?raw=1&rlkey=rlrhnj0fcto9a00wgd02sbvjy&st=b4veoko6
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7jLCmmmVExznthwz9capqELZTd5.jpg" group-title="Ahsoka (2023)", 1x06 - Lejos, Muy Lejos
+https://dl.dropbox.com/scl/fi/k8kmvxlm5l3y6jhn7zab1/fisica-6.mp4?raw=1&rlkey=4yhyknijkc57h9t9umvg5gqdf&st=d8r52cy5
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2MRzJgFCy9fP6v0GXTSRNFoVEqE.jpg" group-title="Ahsoka (2023)", 1x07 - Sueños y Locura
+https://dl.dropbox.com/scl/fi/igrae7oai9dxsko9uutdy/fisica-7.mp4?raw=1&rlkey=x0miqdysihiv66szhs1x8jgaw&st=gvdy1a5b
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1CEGEHWDI8b7FFd8EeFXBT7wmjl.jpg" group-title="Ahsoka (2023)", 1x08 - El Sabio
+https://dl.dropbox.com/scl/fi/7i823trjglkecy9zmmnd4/fisica-8.mp4?raw=1&rlkey=tkx6h9t54fvf7ryt531gcr3lp&st=dic2g06g
