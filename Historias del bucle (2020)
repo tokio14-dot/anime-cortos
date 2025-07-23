@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:clock-jitter=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x01 - El Experimento
+https://dl.dropbox.com/scl/fi/ziit2thv4d6nmc3wknuhr/sociales-1.mp4?raw=1&rlkey=nbcmt2tn47bd3ryu7duzegn1c&st=a6w6xp7y
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x02 - El Primer Ciclo
+https://dl.dropbox.com/scl/fi/bmrrff3aisbd3ldh1vulz/sociales-2.mp4?raw=1&rlkey=sixl92jfodou9bar5debv2ma9&st=jft7egiv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x03 - La Revelación
+https://dl.dropbox.com/scl/fi/8qk29y62le50hpcpodclc/sociales-3.mp4?raw=1&rlkey=3efmwazaajpc1al1leop82yz3&st=rlcc77vi
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x04 - La Trampa Temporal
+https://dl.dropbox.com/scl/fi/vla8h314mlgx0goi52j5n/sociales-4.mp4?raw=1&rlkey=d80sgxsfhibkan95n5cm1ly7b&st=o7m8u0yn
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x05 - El Punto de Ruptura
+https://dl.dropbox.com/scl/fi/88ew9jmazlvratnffbx86/sociales-5.mp4?raw=1&rlkey=vu1wx7cm4j5z425y199irot0x&st=2ujxz3dn
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x06 - La Conexión
+https://dl.dropbox.com/scl/fi/75ifyzji9s5209533ddc7/sociales-6.mp4?raw=1&rlkey=mqeks5jrn6lkb7hceue44pc5i&st=jozesnwo
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x07 - El Último Intento
+https://dl.dropbox.com/scl/fi/f4il6wk1peqib7mh844cj/sociales-7.mp4?raw=1&rlkey=30ha5n9rh64qzys90ivfdmn09&st=e5c36ib9
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg" group-title="Historias del Bucle (2020)", 1x08 - El Final del Ciclo
+https://dl.dropbox.com/scl/fi/esp2yzl41zjv5blzvt4ub/sociales-8.mp4?raw=1&rlkey=i9h40m3xid1vq8jg5j18um8k6&st=ou43xk5e
