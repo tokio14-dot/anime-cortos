@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x01 - Perspectivas del Equipo
+https://dl.dropbox.com/scl/fi/lnvj2nbzya95so4ev4y2q/sociales-1.mp4?raw=1&rlkey=l8cv2qsaaaqzdpbb2j8wo2hqq&st=0rclwyx3
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x02 - El Peso de Ser Capitán
+https://dl.dropbox.com/scl/fi/bwoa499sw7hvwpj1yvc73/sociales-2.mp4?raw=1&rlkey=61z4bnta5ba6r6fyf2syrwsr8&st=zv2zr2an
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x03 - Familias en las Gradas
+https://dl.dropbox.com/scl/fi/14akqvuxcvppnffuu8q9l/sociales-3.mp4?raw=1&rlkey=dwe050dun7w3ldjct8zpu23qp&st=0z3fjr7d
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x04 - El Novato
+https://dl.dropbox.com/scl/fi/yxx4ai9ypob1uh2efxg6l/sociales-4.mp4?raw=1&rlkey=ry1fi0k47ape3u2661wkbvxbt&st=455emw4j
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x05 - Presión en el Último Inning
+https://dl.dropbox.com/scl/fi/yx3fj0l3lq8hwhwhh73o8/sociales-5.mp4?raw=1&rlkey=eu3itztqste6l1fpk7qpy7baq&st=uy0piatb
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x06 - Más Allá del Juego
+https://dl.dropbox.com/scl/fi/gt8ey7kg8qeq5qgtnut1p/sociales-6.mp4?raw=1&rlkey=sdbt4vlsehde5ajvhimzsw086&st=1kl02mpl
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x07 - Decisiones que Definen
+https://dl.dropbox.com/scl/fi/l4ac1kzc4ntrsucfhfc8v/sociales-7.mp4?raw=1&rlkey=rtxhjex1z3w97pjw2l5zymqa1&st=0i8oedlx
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfXq32z4TowqitEclMLzjaoPTYX.jpg" group-title="En la victoria o en la derrota (2025)", 1x08 - El Verdadero Campeonato
+https://dl.dropbox.com/scl/fi/90fmyjqcwliwynmm738cp/sociales-8.mp4?raw=1&rlkey=w25khctfv3uglfelybuptwugx&st=jlem2aop
