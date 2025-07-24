@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:no-ts-trust-pcr
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x01 - El Hombre Volador y el Músico
+https://dl.dropbox.com/scl/fi/3fwwsauspljlrooqc7vxe/fisica-1.mp4?raw=1&rlkey=cyg3vq3veqt2r8o9brygy3nsm&st=q05ux80o
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x02 - Movimientos del Pueblo Jah
+https://dl.dropbox.com/scl/fi/owpvaetnimw2628ugsyfa/fisica-2.mp4?raw=1&rlkey=rv1l2c2msoihx6rm697ljyo45&st=gjzik8tf
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x03 - De Amor y Ron Caribeño
+https://dl.dropbox.com/scl/fi/8orl5lif45elskm4iwy5c/fisica-3.mp4?raw=1&rlkey=g88gsgn7skex46gqgdqmrkad3&st=vhnyo8bc
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x04 - Las Almas y la Ciencia de la Gente Negra
+https://dl.dropbox.com/scl/fi/scff7owvzp6ji38rcldma/fisica-4.mp4?raw=1&rlkey=ooh8eun7mrfnqbqv0dnxefc65&st=5xqtdqzb
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x05 - San Jorge y el Dragón
+https://dl.dropbox.com/scl/fi/cpmzwdc33pctpv3lad4d5/fisica-5.mp4?raw=1&rlkey=b2mzfk65nwh242fpuuq7f5v8r&st=ph6oi6h2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x06 - Selamiut
+https://dl.dropbox.com/scl/fi/e14x9l5pxf0mnor342tmb/fisica-6.mp4?raw=1&rlkey=ievf6hszhl4v8eii9ys2fm0sw&st=q93apcog
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x07 - Mañana de J'ouvert
+https://dl.dropbox.com/scl/fi/04eepuqy8z3gfg963wrky/fisica-7.mp4?raw=1&rlkey=6asmw8fnrk61wzwjogr9cyuvd&st=r2bev97p
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg" group-title="Washington Black (2025)", 1x08 - Si Ves a Mi Mamá, Susúrrale Esto...
+https://dl.dropbox.com/scl/fi/5pg4e0w1e22nfdmqddohf/fisica-8.mp4?raw=1&rlkey=3n3ukztrsagvqy0y30egh8tmu&st=5x152p2h
