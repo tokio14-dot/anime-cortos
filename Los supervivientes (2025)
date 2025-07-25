@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTM3U
+#EXTVLCOPT:network-caching=1000    
+
+#EXTVLCOPT:deinterlace-mode=yadif  
+
+#EXTVLCOPT:avcodec-hw=any 
+
+#EXTVLCOPT:no-ts-trust-pcr
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ft5vtOFGYqMsps4fnHjiLfBfPsa.jpg", 1x01 - El principio del fin
+https://dl.dropbox.com/scl/fi/cwvrfsy1csce7j30v2iqu/matematica-1.mp4?rlkey=k0lgjbqc8ql2jzvrlmd4m17vm&st=btk6wfvh&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ft5vtOFGYqMsps4fnHjiLfBfPsa.jpg", 1x02 - La primera noche
+https://dl.dropbox.com/scl/fi/51jbvewj8u8l61wbe6k0i/matematica-2.mp4?rlkey=5ta7m3wsvs3756kqilmwd8d1g&st=8ic0002l&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ft5vtOFGYqMsps4fnHjiLfBfPsa.jpg", 1x03 - Las reglas han cambiado
+https://dl.dropbox.com/scl/fi/3bgy5ok0tgwmgxate9id9/matematica-3.mp4?rlkey=xjk2y5i1b7qak614glx50fkjq&st=7az9nrip&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ft5vtOFGYqMsps4fnHjiLfBfPsa.jpg", 1x04 - El precio de la supervivencia
+https://dl.dropbox.com/scl/fi/vyfu6t2g9hqdlsy69m3zd/matematica-4.mp4?rlkey=o37wials6tlb5ukkxfl3swhpq&st=movnktd1&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ft5vtOFGYqMsps4fnHjiLfBfPsa.jpg", 1x05 - La traición
+https://dl.dropbox.com/scl/fi/h9lw2ii3wsgwlr8w2fjyq/matematica-5.mp4?rlkey=s25geex3ccrqo57bkjml2120c&st=78aucxzc&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ft5vtOFGYqMsps4fnHjiLfBfPsa.jpg", 1x06 - El último refugio
+https://dl.dropbox.com/scl/fi/vcvmcwr6jsrbutk02qkmf/matematica-6.mp4?rlkey=cdla3gikqobtydsd24nz4cy87&st=2wcel15a&dl=1
