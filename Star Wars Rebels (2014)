@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000    
+#EXTVLCOPT:deinterlace-mode=yadif  
+#EXTVLCOPT:avcodec-hw=any 
+#EXTVLCOPT:no-ts-trust-pcr
+
+
+#EXTGRP:TEMPORADA 1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",1. Espíritu rebelde
+https://dl.dropbox.com/scl/fi/qhfzdzuxtqyyybvaa3j8q/sociales-1.mp4?rlkey=xa08nquzkseqt0mc23lcrb0gc&st=cbp3353v&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",2. Droides en problemas
+https://dl.dropbox.com/scl/fi/rhha02vn1hdx47zeaqljs/sociales-2.mp4?rlkey=qr4qs2g6q3ibclyc278zmzhil&st=5h5epn5p&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",3. La llamada del Jedi
+https://dl.dropbox.com/scl/fi/mn1u5dj4cb48u26wsvefe/sociales-3.mp4?rlkey=vhhec0gjnzoj8yspvuh72nils&st=hhmur389&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",4. En las garras del Imperio
+https://dl.dropbox.com/scl/fi/el1amucz0m2lj2ballynj/sociales-4.mp4?rlkey=hgr70bfxog0o2p61xco1aabkl&st=xokqkpga&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",5. El fuego de la rebelión
+https://dl.dropbox.com/scl/fi/j0n41elenfg4952sw0x3m/sociales-5.mp4?rlkey=e8ir795m09w77ykksbg6b75jf&st=1wm1mro5&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",6. El aprendiz del inquisidor
+https://dl.dropbox.com/scl/fi/e7y1zyghuicwgh8acw5l5/sociales-6.mp4?rlkey=3ac1s1pp05fg54fgqzbbcifgl&st=ffkhatiw&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",7. Misión a Mustafar
+https://dl.dropbox.com/scl/fi/idii8dijiyka6eq9fcn8s/sociales-7.mp4?rlkey=upj8l7jcn06jp0rtr367cebbl&st=mn50et7p&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",8. La sombra del Imperio
+https://dl.dropbox.com/scl/fi/9sejn4nvrylg8fmiccefw/sociales-8.mp4?rlkey=bixomqkjtm8tflmt5wrdi7zml&st=5z8bmhjn&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",9. El secreto de Lothal
+https://dl.dropbox.com/scl/fi/edry0cvff2jvxly6xff93/sociales-9.mp4?rlkey=zeoex934vn80ssl0unfgez2y5&st=g5r9dq9r&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",10. El rescate del contrabandista
+https://dl.dropbox.com/scl/fi/th7nrejmrt0igcuv82ts1/sociales-10.mp4?rlkey=82swfi9i0se0ihb2u2fzo7f06&st=4f4cwyle&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",11. La visión del Jedi
+https://dl.dropbox.com/scl/fi/i6nv5zd5f90dvsxvmuylj/sociales-11.mp4?rlkey=gtw2iis1b3fgc5xrysr350ea8&st=mpu0g4w1&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",12. El llamado del deber
+https://dl.dropbox.com/scl/fi/ffdc6a5y9jwy7v93sopo9/sociales-12.mp4?rlkey=ubdfdk08ua8xercknton4cexl&st=np45mgjy&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",13. El amanecer de la rebelión
+https://dl.dropbox.com/scl/fi/m7unqdbztr4u56yj2t4jz/sociales-13.mp4?rlkey=bd6m591z92i74rvu2994e7tmx&st=xbm0e5pc&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",14. El legado perdido
+https://dl.dropbox.com/scl/fi/6l0orun6zpva3f9c7g08h/sociales-14.mp4?rlkey=8mmv8smjexklwc8zg9m8tkd5e&st=xwgesdul&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg",15. El destino del Spectre
+https://dl.dropbox.com/scl/fi/38shv94robc2unuqrglw8/sociales-15.mp4?rlkey=5dmrpv3kvjwqo7ojnfhlcsrno&st=kbas3hdv&dl=1
+
+
+
+
+
+
+
+
+
+
+
+
