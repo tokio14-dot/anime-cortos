@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTVLCOPT:network-caching=1000    
+#EXTVLCOPT:deinterlace-mode=yadif  
+#EXTVLCOPT:avcodec-hw=any 
+#EXTVLCOPT:no-ts-trust-pcr
 
 #EXTGRP: TEMPORADA 1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p6Jin9Ikm7Sg9D40oZ83pjlHz0e.jpg",1. El llamado
@@ -50,6 +53,37 @@ https://dl.dropbox.com/scl/fi/wvf3ulf40ydwijaeg7s5h/recuerdos-7.mp4?rlkey=o9dky0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2Y0A1rabAiMhHlpw6o8e5GiIBpD.jpg",8. Más allá de las montañas
 https://dl.dropbox.com/scl/fi/1gpokrluly1mcfqumexfr/recuerdos-8.mp4?rlkey=jllk7tobht3yzbex7u4dcxwco&st=swjtifbv&dl=1
+
+#EXTGRP: TEMPORADA 3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",1. El regreso
+https://dl.dropbox.com/scl/fi/2j69jretnsu88hke22rb7/ciencia-1.mp4?rlkey=j7b2c4ejbni30jhtqo7yb6wp2&st=agehn9zv&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",2. Dos por dos
+https://dl.dropbox.com/scl/fi/j3d699oqz6qezc08fh1iv/ciencia-2.mp4?rlkey=tlifk36f8wkmwvmrvm71m1jyd&st=ddllydq9&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",3. Hospitalidad
+https://dl.dropbox.com/scl/fi/glhqw82am121rz0mfk12c/ciencia-3.mp4?rlkey=oz7fjt3l4nxm6qy6xaf41m9fc&st=5grkckhr&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",4. Limpio (Parte 1)
+https://dl.dropbox.com/scl/fi/yfant7fi4rf8puc5jhub6/ciencia-4.mp4?rlkey=k6dxhj4b0bqch2zxzuqa7w299&st=29sgjcxh&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",5. Limpio (Parte 2)
+https://dl.dropbox.com/scl/fi/jr8igw2j8oyo6zhu485ho/ciencia-5.mp4?rlkey=d5yp2rvvtph3xqbcoirf6ymhs&st=ihvpe9s5&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",6. Intensidad en la tentación
+https://dl.dropbox.com/scl/fi/muor8vb8q94qyofiqbnjq/ciencia-6.mp4?rlkey=sq30mwoju7xv6j6rhlcvewlkq&st=7kexppyn&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",7. Eclipsado
+https://dl.dropbox.com/scl/fi/d52462tamcba4s460t5ly/ciencia-7.mp4?rlkey=k6qwgjmj2xv52zb2o3y1pd770&st=wev3vxny&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaSYsPmJTQAjOwIQzpI9YVb5OPz.jpg",8. Hogar para Navidad
+https://dl.dropbox.com/scl/fi/yfnhs82hd5o4j44zkguyz/ciencia-8.mp4?rlkey=luhezc4ssdouerr96lpgj0bix&st=flvbyr2t&dl=1
+
+
+
+
+
+
 
 
 
