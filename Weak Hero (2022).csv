@@ -1,0 +1,46 @@
+
+
+#EXTM3U
+#EXTGRP: Temporada 1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", El comienzo
+https://archive.org/download/eldevil/S1E1.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", La primera pelea
+https://archive.org/download/eldevil/S1E2.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", Nuevos rivales
+https://archive.org/download/eldevil/S1E3.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", Alianzas peligrosas
+https://archive.org/download/eldevil/S1E4.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", El precio de la debilidad
+https://archive.org/download/eldevil/S1E5.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", La venganza
+https://archive.org/download/eldevil/S1E6.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", Confrontación final
+https://archive.org/download/eldevil/S1E7.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", El héroe débil
+https://archive.org/download/eldevil/S1E8.mkv
+
+#EXTHRP:Temporada 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", El regreso
+https://archive.org/download/ELDEBIL2/S2E1.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", Nuevas amenazas
+https://archive.org/download/ELDEBIL2/S2E2.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", Batalla en las sombras
+https://archive.org/download/ELDEBIL2/S2E3.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", Traiciones
+https://archive.org/download/ELDEBIL2/S2E4.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", El juego del poder
+https://archive.org/download/ELDEBIL2/S2E5.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", Sin retorno
+https://archive.org/download/ELDEBIL2/S2E6.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", El último combate
+https://archive.org/download/ELDEBIL2/S2E7.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", El legado
+https://archive.org/download/ELDEBIL2/S2E8.mkv
+
+
+
+
+
+
+
+
