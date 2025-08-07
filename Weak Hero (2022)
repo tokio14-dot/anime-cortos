@@ -19,7 +19,7 @@ https://archive.org/download/eldevil/S1E7.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg", El héroe débil
 https://archive.org/download/eldevil/S1E8.mkv
 
-#EXTHRP:Temporada 2
+#EXTGRP:Temporada 2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", El regreso
 https://archive.org/download/ELDEBIL2/S2E1.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6s8oIqXhXAZ05F6V1bR230n9zq.jpg", Nuevas amenazas
