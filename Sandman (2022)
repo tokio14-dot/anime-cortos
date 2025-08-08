@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTIMG:https://image.tmdb.org/t/p/original/vfJ1nBnqiiRWZWv3ZvtFWO5zccg.jpg
-#PLAYLIST:Sandman (2022)
+#EXTGRP:Sandman (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfJ1nBnqiiRWZWv3ZvtFWO5zccg.jpg",1 - Sueños precarios
 https://dropbox.com/scl/fi/9aa3q39s2gik8ck6m2e7z/matematica-1.mp4?rlkey=sa705v5agtd9lz7asu1wyvi1o&st=lgsqglsi&dl=1
@@ -35,7 +35,32 @@ https://dropbox.com/scl/fi/f6a5e8p9rfm88b5eqmxnx/matematica-11.mp4?rlkey=g954nis
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfJ1nBnqiiRWZWv3ZvtFWO5zccg.jpg",11 - El infierno está aquí (Parte 2)
 https://dropbox.com/scl/fi/f6a5e8p9rfm88b5eqmxnx/matematica-11.mp4?rlkey=g954nisay9p1bzogt7tl70gyp&st=2s7t1gzs&dl=1
 
-
+#EXTM3U
+#EXTGRP:The Sandman (2025) - Temporada 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x01 - El sueño de los justos
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x1castellano-%20cinematecaplus.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x02 - La casa de muñecas
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x2%20castellano-%20cinematecaplus.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x03 - Sueño de una noche de verano
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x3%20online%20en%20castellano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x04 - Hombres de buena fortuna
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x4%20online%20en%20castellano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x05 - Coleccionistas
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x5%20online%20en%20castellano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x06 - La canción de Orfeo
+https://archive.org/download/sandman-2x-5-online-en-castellano/Ver%20Sandman%202x6%20online%20en%20castellano%20latino%20subtitulado%20espa%C3%B1ol%20temporada%202%20episodio%206%20Sandman%20castellano%20latino%20subtitulado%20-%20HDFull.tv.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x07 - La caza
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x7%20online%20en%20castellano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x08 - Las bondadosas
+https://archive.org/download/sandman-2x-5-online-en-castellano/Ver%20Sandman%202x8%20online%20en%20castellano%20latino%20subtitulado%20espa%C3%B1ol%20temporada%202%20episodio%208%20Sandman%20castellano%20latino%20subtitulado%20-%20HDFull.tv.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x09 - El reino de la noche
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x9%20online%20en%20castellano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x10 - El fin de los mundos
+https://archive.org/download/sandman-2x-5-online-en-castellano/Ver%20Sandman%202x10%20online%20en%20castellano%20latino%20subtitulado%20espa%C3%B1ol%20temporada%202%20episodio%2010%20Sandman%20castellano%20latino%20subtitulado%20-%20HDFull.tv.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x11 - Un juego de ti
+https://archive.org/download/sandman-2x-5-online-en-castellano/Sandman%202x11%20online%20en%20castellano.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1DLMHwGuEKj3jS0bN4hgGXWUDqv.jpg", 2x12 - El despertar
+https://archive.org/download/sandman-2x-5-online-en-castellano/Ver%20Sandman%202x12%20online%20en%20castellano%20latino%20subtitulado%20espa%C3%B1ol%20temporada%202%20episodio%2012%20Sandman%20castellano%20latino%20subtitulado%20-%20HDFull.tv.mp4
 
 
 
