@@ -1,0 +1,35 @@
+
+#EXTM3U
+#EXTGRP:Merlina (2022) - Temporada 1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x01 - Los miércoles son tristes
+https://archive.org/download/M-Season1/S1E1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x02 - La tristeza es solitaria
+https://archive.org/download/M-Season1/S1E2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x03 - Amiga o enemiga
+https://archive.org/download/M-Season1/S1E3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x04 - Qué noche la de ese día
+https://archive.org/download/M-Season1/S1E4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x05 - El baile de los corazones rotos
+https://archive.org/download/M-Season1/S1E5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x06 - El día del villano
+https://archive.org/download/M-Season1/S1E6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x07 - Si no me querías, no debiste invitarme
+https://archive.org/download/M-Season1/S1E7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieVJY39TA2AyvcQ5XqSxu0eJ6aw.jpg", 1x08 - Un final con sentimiento
+https://archive.org/download/M-Season1/S1E8.mp4
+
+#EXTGRP:Merlina (2025) - Temporada 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lpn7SBHq8lfw8jMgffytMIwzx6t.jpg", 2x01 - El regreso a Nevermore
+https://archive.org/download/M-Temporada2/S2E1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lpn7SBHq8lfw8jMgffytMIwzx6t.jpg", 2x02 - Secretos en la mansión
+https://archive.org/download/M-Temporada2/S2E2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lpn7SBHq8lfw8jMgffytMIwzx6t.jpg", 2x03 - La profecía oscura
+https://archive.org/download/M-Temporada2/S2E3.mp4
+https://archive.org/download/M-Temporada2/S2E4.mp4
+
+
+
+
+
+
+
