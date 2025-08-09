@@ -127,7 +127,7 @@ https://archive.org/download/avatar-la-leyenda-de-aang-temporada-3/S3%20E20%20Av
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/roPE4jaHawj1Dm6uIXJHuLDpkNy.jpg", 3x21 - El cometa de Sozin, parte 3 (Sozin's Comet, Part 4: Avatar Aang)
 https://archive.org/download/avatar-la-leyenda-de-aang-temporada-3/S3%20E21%20Avatar%20la%20leyenda%20de%20Aang%20Temporada%203.mp4
 
-#EXTM3U
+
 #EXTGRP:Book One: Air
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fXZxw086qcBWkFJ6geI7O5NsEyV.jpg", 1x01 - Bienvenida a Ciudad República (Welcome to Republic City)
 https://archive.org/download/avatar-la-leyenda-de-korra-temporada-1-aire/S1%20E01%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%201.mp4
@@ -154,8 +154,35 @@ https://archive.org/download/avatar-la-leyenda-de-korra-temporada-1-aire/S1%20E1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fXZxw086qcBWkFJ6geI7O5NsEyV.jpg", 1x12 - Fin de partida (Endgame)
 https://archive.org/download/avatar-la-leyenda-de-korra-temporada-1-aire/S1%20E12%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%201.mp4
 
-
-
+#EXTGRP:Book Two: Spirits
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x01 - Rebelión espiritual (Rebel Spirit)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E01%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x02 - Las luces del sur (The Southern Lights)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E02%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x03 - Guerras civiles, parte 1 (Civil Wars, Part 1)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E03%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x04 - Guerras civiles, parte 2 (Civil Wars, Part 2)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E04%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x05 - Mantis espiritual (Peacekeepers)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E05%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x06 - Los primeros maestros aire (The Sting)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E06%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x07 - Comienzos, parte 1 (Beginnings, Part 1)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E07%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x08 - Comienzos, parte 2 (Beginnings, Part 2)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E08%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x09 - La guía (The Guide)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E09%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x10 - Una nueva era espiritual (A New Spiritual Age)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E10%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x11 - Convergencia armónica (Night of a Thousand Stars)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E11%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x12 - Oscuridad creciente (Harmonic Convergence)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E12%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x13 - Luz en la oscuridad (Light in the Dark)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E13%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Ev7tsxWx0QCBl5ViaOLPb0JEMs.jpg", 2x14 - El espíritu de competencia (The Sting)
+https://archive.org/download/avatar-la-leyenda-de-korra-temporada-2-espiritus_202508/S2%20E14%20Avatar%20la%20leyenda%20de%20Korra%20Temporada%202.mp4
 
 
 
