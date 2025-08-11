@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/510o12Si18RiOsDvQohe1uZBECa.jpg",S01E001 - Piloto
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/510o12Si18RiOsDvQohe1uZBECa.jpg"group-title="Yo Soy Betty, La Fea",S01E001 - Piloto
 https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E01.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vIrR82OKssM5KkSJu3AATEXFrlC.jpg"group-title="Yo Soy Betty, La Fea",S01E002
