@@ -1,8 +1,5 @@
 #EXTM3U
-
-#EXTM3U
 #EXTGRP: Temporada 1  (1-26)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg",1x01. Piloto
 https://archive.org/download/alf_latino/S01.E01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6ivwRDbQYq7oqZo0fjNgE7cX0AD.jpg",1x02. 
@@ -111,16 +108,59 @@ https://archive.org/download/alf_latino/S02.E25.mp4
 https://archive.org/download/alf_latino/S02.E26.mp4
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTGRP:Temporada 3 Completa (1-26)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x01. 
+https://archive.org/download/alf_latino/S03.E01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x02. 
+https://archive.org/download/alf_latino/S03.E02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x03. 
+https://archive.org/download/alf_latino/S03.E03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x04. 
+https://archive.org/download/alf_latino/S03.E04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x05. 
+https://archive.org/download/alf_latino/S03.E05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x06. 
+https://archive.org/download/alf_latino/S03.E06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x07. 
+https://archive.org/download/alf_latino/S03.E07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x08. 
+https://archive.org/download/alf_latino/S03.E08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x09. 
+https://archive.org/download/alf_latino/S03.E09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x10. 
+https://archive.org/download/alf_latino/S03.E10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x11. 
+https://archive.org/download/alf_latino/S03.E11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x12. 
+https://archive.org/download/alf_latino/S03.E12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x13. 
+https://archive.org/download/alf_latino/S03.E13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x14. 
+https://archive.org/download/alf_latino/S03.E14.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x15. 
+https://archive.org/download/alf_latino/S03.E15.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x16. 
+https://archive.org/download/alf_latino/S03.E16.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x17. 
+https://archive.org/download/alf_latino/S03.E17.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x18. 
+https://archive.org/download/alf_latino/S03.E18.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x19. 
+https://archive.org/download/alf_latino/S03.E19.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x20. 
+https://archive.org/download/alf_latino/S03.E20.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x21. 
+https://archive.org/download/alf_latino/S03.E21.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x22. 
+https://archive.org/download/alf_latino/S03.E22.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x23. 
+https://archive.org/download/alf_latino/S03.E23.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x24. 
+https://archive.org/download/alf_latino/S03.E24.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x25. 
+https://archive.org/download/alf_latino/S03.E25.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4nvtUVZgFfV1VWFmTP0C84Zru3J.jpg",3x26. 
+https://archive.org/download/alf_latino/S03.E26.mp4
 
 
 #EXTGRP: Temporada 4 Completa (1-24)
