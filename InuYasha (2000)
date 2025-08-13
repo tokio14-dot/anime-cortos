@@ -241,15 +241,17 @@ https://archive.org/download/inuyasha-tv-rip-latino-cartoon-network/InuYasha%200
 https://archive.org/download/inuyasha-tv-rip-latino-cartoon-network/InuYasha%20080%20-%20TV%20Rip%20Latino%20Cartoon%20Network.mp4
 
 #EXTGRP:VOLUMEN 1
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v7J7y2Or3XpLBjR2vl68gYtZbic.jpg",1
+https://archive.org/download/inuyasha-tv-rip-latino-cartoon-network/Inuyasha%20Latino%20Cartoon%20Network%20Vol.%201.mp4
 #EXTGRP:VOLUMEN 2
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/66eFVD0uVLTIE69W25XNVw1bgw9.jpg",2
+https://archive.org/download/inuyasha-tv-rip-latino-cartoon-network/Inuyasha%20Latino%20Cartoon%20Network%20Vol.%202.mp4
 #EXTGRP:VOLUMEN 3
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b6K5n7a0cKyNr1FwDOQ3TNr266P.jpg",3
+https://archive.org/download/inuyasha-tv-rip-latino-cartoon-network/Inuyasha%20Latino%20Cartoon%20Network%20Vol.%203.mp4
+#EXTGRP:VOLUMEN 4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7CvTnBZsia4etfaxuHQWg01OLzU.jpg",1
+https://archive.org/download/inuyasha-tv-rip-latino-cartoon-network/Inuyasha%20Latino%20Cartoon%20Network%20Vol.%204.mp4
 
 
 
