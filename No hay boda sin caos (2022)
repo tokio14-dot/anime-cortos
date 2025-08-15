@@ -1,42 +1,29 @@
-serie en m3u:
+#EXTM3U
+#PLAYLIST: No hay boda sin caos (2022)
+#EXTIMG:https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg
 
-No hay boda sin caos (2022)
-
-imagen
-https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg
-
-
-
-
-
-
-
-
-
-
-ENLASES:
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2001.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2001.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2002.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2002.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2003.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2003.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2004.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2004.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2005.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2005.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2006.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2006.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2007.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2007.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2008.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2008.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2009.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2009.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2010.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2010.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2011.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2011.mp4"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2012.mkv"
-"https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2012.mp4"
-"
+### TEMPORADA 1 ###
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x01 - La propuesta catastrófica
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2001.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x02 - Lista de invitados problemáticos
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2002.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x03 - El vestido desaparecido
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x04 - Guerra de familias
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2004.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x05 - El ex aparece
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x06 - Boda en peligro
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x07 - Planes alternativos
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x08 - La boda imposible
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2008.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x09 - Todo sale mal
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2009.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x10 - El gran día... ¿o no?
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2010.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x11 - Amor en tiempos caóticos
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2011.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg", 1x12 - Final inesperado (Final de temporada)
+https://archive.org/download/no-hay-boda-sin-caos-/No%20hay%20boda%20sin%20caos%2012.mp4
