@@ -1,0 +1,11 @@
+#EXTM3U
+#PLAYLIST: Arnold (2023) - Documental
+#EXTIMG:https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg
+
+### TEMPORADA 1 ###
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg", 1x01 - De Austria a América
+https://archive.org/download/mini-serie-arnold-2023/S01E01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg", 1x02 - De Mr. Olympia a Hollywood
+https://archive.org/download/mini-serie-arnold-2023/S01E02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg", 1x03 - De actor a gobernador (Final)
+https://archive.org/download/mini-serie-arnold-2023/S01E03.mp4
