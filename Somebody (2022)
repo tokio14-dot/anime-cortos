@@ -1,0 +1,21 @@
+#EXTM3U
+#PLAYLIST: Somebody (2022)
+#EXTIMG:https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg
+
+### TEMPORADA 1 ###
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x01 - Perfil oculto
+https://archive.org/download/somebody-/Somebody%2001.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x02 - Conexión peligrosa
+https://archive.org/download/somebody-/Somebody%2002.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x03 - Cita mortal
+https://archive.org/download/somebody-/Somebody%2003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x04 - Huellas digitales
+https://archive.org/download/somebody-/Somebody%2004.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x05 - El juego del asesino
+https://archive.org/download/somebody-/Somebody%2005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x06 - Algoritmo de la muerte
+https://archive.org/download/somebody-/Somebody%2006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x07 - Perfil del psicópata
+https://archive.org/download/somebody-/Somebody%2007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTips9yZIOfHsTuK1b6kVYlEOdn.jpg", 1x08 - Somebody Knows (Final)
+https://archive.org/download/somebody-/Somebody%2008.mp4
