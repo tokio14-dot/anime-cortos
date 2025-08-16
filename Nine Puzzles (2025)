@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTIMG:https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg
+#PLAYLIST:Nine Puzzles (2025)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",1 - El primer acertijo
+https://archive.org/download/matematica-4/matematica%20%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",2 - Las piezas perdidas
+https://archive.org/download/matematica-4/matematica%20%282%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",3 - El código oculto
+https://archive.org/download/matematica-4/matematica%20%283%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",4 - El enigma del espejo
+https://archive.org/download/matematica-4/matematica%20%284%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",5 - La solución intermedia
+https://archive.org/download/matematica-4/matematica%20%285%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",6 - El rompecabezas final
+https://archive.org/download/matematica-4/matematica%20%286%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",7 - Las piezas reveladas
+https://archive.org/download/matematica-4/matematica%20%287%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",8 - El último misterio
+https://archive.org/download/matematica-4/matematica%20%288%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",9 - La verdad completa
+https://archive.org/download/matematica-4/matematica%20%289%29.mp4
