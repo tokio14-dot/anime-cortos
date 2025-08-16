@@ -6,7 +6,7 @@
 
 
 
-
+#EXTGRP: VOLUMEN 1 (2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lQKHl4Fl8qjv8R6SxiGojcb5wkU.jpg" group-title="Star Wars: Visions (2021)", 1x01 - El Duelo
 https://dl.dropbox.com/scl/fi/ifqe0i5nymbuthhq9adjt/matematica-1.mp4?rlkey=eqwie9l4kbum2rbc8lp5u4hqu&st=ralpbvxt&dl=0
 
@@ -34,10 +34,7 @@ https://www.dropbox.com/scl/fi/wlkwbzwyaocpx96zvunp9/matematica-3.mp4?rlkey=8nlp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lQKHl4Fl8qjv8R6SxiGojcb5wkU.jpg" group-title="Star Wars: Visions (2021)", 1x09 - Akakiri
 https://dl.dropbox.com/scl/fi/3rx6qqe3hxie079ifl3hr/matematica-9.mp4?rlkey=nyy0j6sodxck636angaj3993j&st=p5rswqwg&dl=0
 
-#EXTGRP:volumen 2 (2023)
-#EXTIMG:https://image.tmdb.org/t/p/original/9WsUrsodz6Vml0WAQL7oRcpTCuA.jpg
-#PLAYLIST:Star Wars: Visions (2023) - Temporada 2
-
+#EXTGRP: VOLUMEN 2 (2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9WsUrsodz6Vml0WAQL7oRcpTCuA.jpg",1 - El sabio
 dl.dropbox.com/scl/fi/0slklgwnxwdfhopjvw7r4/sociales-2-1.mp4?rlkey=pbe3j8ydqj6lse6ufkpoaw6si&st=jmirdfff&dl=1
 
@@ -67,7 +64,6 @@ dl.dropbox.com/scl/fi/w0c06nowqs5ls5htsn3jk/sociales-2-9.mp4?rlkey=qu6rxpgiiemle
 
 
 
-#EXTGRP:volumen 3
 
 
 
