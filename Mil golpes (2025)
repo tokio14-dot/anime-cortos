@@ -1,44 +1,21 @@
 #EXTM3U
-#EXTIMG:https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg
+#EXTIMG:https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg
 #PLAYLIST:Mil golpes (2025)
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",1 - El principio del fin
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",1 - El principio del fin
 https://archive.org/download/naturales-3/naturales%20%281%29.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",1 - El principio del fin (Versión IA)
-https://archive.org/download/naturales-3/naturales%20%281%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",2 - La caída
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",2 - La caída
 https://archive.org/download/naturales-3/naturales%20%282%29.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",2 - La caída (Versión IA)
-https://archive.org/download/naturales-3/naturales%20%282%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",3 - El renacer
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",3 - El renacer
 https://archive.org/download/naturales-3/naturales%20%283%29.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",3 - El renacer (Versión IA)
-https://archive.org/download/naturales-3/naturales%20%283%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",4 - La traición
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",4 - La traición
 https://archive.org/download/naturales-3/naturales%20%284%29.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",4 - La traición (Versión IA)
-https://archive.org/download/naturales-3/naturales%20%284%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",5 - El último recurso
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",5 - El último recurso
 https://archive.org/download/naturales-3/naturales%20%285%29.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",5 - El último recurso (Versión IA)
-https://archive.org/download/naturales-3/naturales%20%285%29.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",6 - El desenlace
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",6 - El desenlace
 https://archive.org/download/naturales-3/naturales%20%286%29.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/naturales-3/foO5Utd8MWrkM6U5cEityaYZYfJ.jpg",6 - El desenlace (Versión IA)
-https://archive.org/download/naturales-3/naturales%20%286%29.ia.mp4
-
-
-
-
-
