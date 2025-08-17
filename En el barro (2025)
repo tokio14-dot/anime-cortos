@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTIMG:https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg
+#PLAYLIST:En el barro (2025)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",1 - La siembra
+https://archive.org/download/naturales-3_202508/naturales%20%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",2 - Cosecha amarga
+https://archive.org/download/naturales-3_202508/naturales%20%282%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",3 - Raíces profundas
+https://archive.org/download/naturales-3_202508/naturales%20%283%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",4 - Tierra quemada
+https://archive.org/download/naturales-3_202508/naturales%20%284%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",5 - Lluvia de plomo
+https://archive.org/download/naturales-3_202508/naturales%20%285%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",6 - Barro y sangre
+https://archive.org/download/naturales-3_202508/naturales%20%286%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",7 - La última frontera
+https://archive.org/download/naturales-3_202508/naturales%20%287%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",8 - Renacer
+https://archive.org/download/naturales-3_202508/naturales%20%288%29.mp4
