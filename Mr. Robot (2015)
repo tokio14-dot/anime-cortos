@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTGRP:season_1.0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.0_hellofriend.mov
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.1_ones-and-zer0es.mpeg
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.2_d3bug.mkv
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.3_da3m0ns.mp4
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.4_3xpl0its.wmv
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.5_br4ve-trave1er.asf
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.6_v1ew-s0urce.flv
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.7_wh1ter0se.m4v
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.8_m1rr0r1ng.qt
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",eps1.9_zer0-day.avi
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-1/Mr.%20Robot%201x10.mp4
+
+#EXTGRP:season_2.0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.0_unm4sk-pt1.tc
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x01-02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.1_unm4sk-pt2.tc
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x01-02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.2_init1.asec
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.3_logic-b0mb.hc
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.4_m4ster-s1ave.aes
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.5_h4ndshake.sme
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.6_succ3ss0r.p12
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.7_init5.fve
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.8_h1dden-pr0cess.axx
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.9_pyth0n-pt1.p7z
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.9_pyth0n-pt2.p7z
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",eps2.9_pyth0n-pt3.p7z
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-2/Mr.%20Robot%202x12.mp4
+
+
+#EXTGRP:season_3.0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.0_power-saver-mode.h
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.1_undo.gz
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.2_legacy.so
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.3_metadata.par2
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.4_runtime-err0r.r00
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.5_kill-process.inc
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.6_fredrick+tanya.chk
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.7_dont-delete-me.ko
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.8_stage3.torrent
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",eps3.9_shutdown-r
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-3/Mr.%20Robot%203x10.mp4
+
+
+#EXTGRP:season_4.0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.0_hola-amigo.wav
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.1_not-found.404
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.2_payment-required.402
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.3_forbidden.403
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.4_method-not-allowed.405
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.5_not-acceptable.406
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.6_proxy-auth-required.407
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.7_request-timeout.408
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.8_conflict.409
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x09.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.9_gone.410
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.10_length-required.411
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.11_precondition-failed.412
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",eps4.12_hello-elliot.aac
+https://archive.org/download/mr.-r0b0t-t3mp0r5d5-4/Mr%20Robot%204x13.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
