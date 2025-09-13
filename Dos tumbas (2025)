@@ -1,31 +1,12 @@
 #EXTM3U
 
 
-#EXTGRP:OP1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",01
 https://dl.dropbox.com/scl/fi/1qk6qcjnnb8f7bnp78yil/matematica-1.mp4?rlkey=vnwrogfq2j74ygrzqrwic6945&st=37el7ztf&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",02
 https://dl.dropbox.com/scl/fi/abiq89wuh6akybrs5g1g9/matematica-2.mp4?rlkey=l9a2zetypu8e4k0c2ttws4da9&st=bphmft0x&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",03
 https://dl.dropbox.com/scl/fi/z0847xity7k9imtct9hp9/matematica-3.mp4?rlkey=mvqao1s341mdupt5r2bm68gwq&st=sq7owi4i&dl=0
-
-
-
-#EXTGRP:OP2
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",01
-https://archive.org/download/matematica-1_202509/matematica%20%281%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",02
-https://archive.org/download/matematica-1_202509/matematica%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",03
-https://archive.org/download/matematica-1_202509/matematica%20%283%29.mp4
-
-
-
-
-
-
 
 
 
