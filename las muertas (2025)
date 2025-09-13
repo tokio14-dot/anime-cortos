@@ -1,18 +1,38 @@
 #EXTM3U
+EXTGRP:OP1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Series",Las Muertas (2025) - Capítulo 1: El principio del misterio
 https://archive.org/download/sociales-6/sociales%20%281%29.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Series",Las Muertas (2025) - Capítulo 2: Secretos enterrados
 https://archive.org/download/sociales-6/sociales%20%282%29.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Series",Las Muertas (2025) - Capítulo 3: Las pistas del pasado
 https://archive.org/download/sociales-6/sociales%20%283%29.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Series",Las Muertas (2025) - Capítulo 4: Revelaciones oscuras
 https://archive.org/download/sociales-6/sociales%20%284%29.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Series",Las Muertas (2025) - Capítulo 5: El precio de la verdad
 https://archive.org/download/sociales-6/sociales%20%285%29.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Series",Las Muertas (2025) - Capítulo 6: El desenlace final
 https://archive.org/download/sociales-6/sociales%20%286%29.mp4
+
+EXTGRP:OP2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",01
+https://dl.dropbox.com/scl/fi/0jziy4bi1nr8goeyj8rs5/sociales-1.mp4?rlkey=eoas4nvc7tgzq6c4849v463mg&st=zo5fck60&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",02
+https://dl.dropbox.com/scl/fi/dpu7rsxqsy50o6ql2up6i/sociales-2.mp4?rlkey=ulpfehxcy89jglbm709hlj1vb&st=pmgbzaze&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",03
+https://dl.dropbox.com/scl/fi/vemrfk18c4y9dguicj0r9/sociales-3.mp4?rlkey=regnr0jqvt52nwx7n91xgod4p&st=e6tu5o73&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",04
+https://dl.dropbox.com/scl/fi/6uzufg8igvepn95zye6pu/sociales-4.mp4?rlkey=u5qyrg79hnukkdpc32pzgary5&st=klnav1mw&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",05
+https://dl.dropbox.com/scl/fi/5mcf1bt4mz2d6rbj34yuv/sociales-5.mp4?rlkey=u43hp9cn7ct4qsxlfrf1ltium&st=wc9tflxa&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",06
+https://dl.dropbox.com/scl/fi/a711uvkr8vrikoibbycd4/sociales-6.mp4?rlkey=zuzmy5k3nue3v3gpo3vbzgimi&st=cu83g8id&dl=0
+
+
+
+
+
+
+
+
+
+
