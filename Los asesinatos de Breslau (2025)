@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",1: El primer crimen
+https://archive.org/download/fisica-1_202509/fisica%20%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",2: Las pistas ocultas
+https://archive.org/download/fisica-1_202509/fisica%20%282%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",3: El modus operandi
+https://archive.org/download/fisica-1_202509/fisica%20%283%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",4: El sospechoso
+https://archive.org/download/fisica-1_202509/fisica%20%284%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",5: La conexión
+https://archive.org/download/fisica-1_202509/fisica%20%285%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",6: La trampa
+https://archive.org/download/fisica-1_202509/fisica%20%286%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",7: El enfrentamiento
+https://archive.org/download/fisica-1_202509/fisica%20%287%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",8: La resolución
+https://archive.org/download/fisica-1_202509/fisica%20%288%29.mp4
