@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP: TEMPORADA 1
+#EXTGRP: Tokyo Ghoul (2014)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c7B7hHZaP5UbTfoWAe7GUZMyJEH.jpg",Capítulo 1
 https://dl.dropbox.com/scl/fi/hopvo3gn4zi52dhkm6prx/matem-tica-1.mp4?rlkey=gai3becazgh0js9vnw6sag5f5&st=bava0cmt&dl=1
 
@@ -38,7 +38,68 @@ https://dl.dropbox.com/scl/fi/ncywz2bdmxxw74gq7ehq8/matem-tica-11.mp4?rlkey=dzel
 https://dl.dropbox.com/scl/fi/hkw46rapf4aicflbr3vj2/matem-tica-12.mp4?rlkey=zhvimduqi1cyn54kcyixjpcxe&st=bghqbpvm&dl=1
 
 
-#EXTGRP: TEMPORADA 2
+#EXTGRP: Tokyo Ghoul √A (2015)
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x01
+https://dl.dropbox.com/scl/fi/iclo8fx4b1ezg8wdd5fay/f-sica-1.mp4?rlkey=7bmx83n1by5bax9ne1mhw5zsr&st=adibu1dh&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x02
+https://dl.dropbox.com/scl/fi/wwfoih7s0zfefca8xtead/f-sica-2.mp4?rlkey=jh616bptp8atveesmeoijll13&st=sygy9s4m&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x03
+https://dl.dropbox.com/scl/fi/x1a5ngqb2cgfw7qxdprjt/f-sica-3.mp4?rlkey=ef42k6nzc4f4yoi1c9n9h9cw2&st=wlsfan9j&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x04
+https://dl.dropbox.com/scl/fi/t07nt2pc9evkhz103kqiw/f-sica-4.mp4?rlkey=mwby35c24979n4vmossvfjsdb&st=6cskjte7&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x05
+https://dl.dropbox.com/scl/fi/0j4uvzfouym962jon061y/f-sica-5.mp4?rlkey=uza9toup8y3h2kbgbp50of7t1&st=735sh3cq&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x06
+https://dl.dropbox.com/scl/fi/3wg4uxn7mvt0f221no0t4/f-sica-6.mp4?rlkey=zgc2q72tuao58rz4dgy4pezs8&st=ux99buve&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x07
+https://dl.dropbox.com/scl/fi/n6x759j4h9jvputo5w26i/f-sica-7.mp4?rlkey=yrhjlyeoknrhk6fwr5aca0rqd&st=p2wrs94t&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x08
+https://dl.dropbox.com/scl/fi/ry1yubh14c25hd3kre24z/f-sica-8.mp4?rlkey=sm5zx59ce2eodbvlqhqt8d2vq&st=b52tn21i&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x09
+https://dl.dropbox.com/scl/fi/tzbmsp3l7vp695gy2zzeo/f-sica-9.mp4?rlkey=e0xe6chpv6rmg51mnwsti93lj&st=pf6hvxu9&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x10
+https://dl.dropbox.com/scl/fi/ytiqko0lfvjsd7saxhsun/f-sica-10.mp4?rlkey=505iwe2fn0tmypoa8wg6f4fxv&st=ha29k36f&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x11
+https://dl.dropbox.com/scl/fi/5ej6yapn3i71xi2r1wdea/f-sica-11.mp4?rlkey=pqu3992tp2y0eqk081gx1cqqy&st=749l76rh&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwrErcHQdND2U2vhp9rkFE6wdbd.jpg",02x12
+https://dl.dropbox.com/scl/fi/t1pq5qz6u9vvwmhvzjzl7/f-sica-12.mp4?rlkey=a1boa2oui70r7ys4pn0yy3nuy&st=ukiy4cdn&dl=1
+
+#EXTGRP:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
