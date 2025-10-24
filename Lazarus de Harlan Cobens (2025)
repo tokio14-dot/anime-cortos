@@ -1,23 +1,18 @@
-serie en m3u
-Lázaro de Harlan Coben (2025)
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",Capítulo 1
+https://dl.dropbox.com/scl/fi/fy6f2e75tewvqdzl21cwj/matematica-1.mp4?rlkey=42j7xgitmcve19vzgn8fc7tr7&st=b4a4k7mc&dl=1
 
-imagen
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",Capítulo 2
+https://dl.dropbox.com/scl/fi/zg0cetimiiazg51ztn3l3/matematica-2.mp4?rlkey=x2ol8p8486ddj5ooetkbh0d8d&st=z7i7l0u4&dl=1
 
-https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",Capítulo 3
+https://dl.dropbox.com/scl/fi/31nikghfj72l1fzymtggo/matematica-3.mp4?rlkey=czhdrzlbk3chngk29cslvad7k&st=17tkjhuh&dl=1
 
-enlaces 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",Capítulo 4
+https://dl.dropbox.com/scl/fi/82yew9yfruz3vp9dmftnf/matematica-4.mp4?rlkey=u4agr7ns5ablff8sdhqzlwbti&st=3i607wtm&dl=1
 
-https://www.dropbox.com/scl/fi/fy6f2e75tewvqdzl21cwj/matematica-1.mp4?rlkey=42j7xgitmcve19vzgn8fc7tr7&st=b4a4k7mc&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",Capítulo 5
+https://dl.dropbox.com/scl/fi/3olm45x2g6fvgnnrs5vaz/matematica-5.mp4?rlkey=gycc8obbralge77c4gyd1v97p&st=4s1rhk6c&dl=1
 
-https://www.dropbox.com/scl/fi/zg0cetimiiazg51ztn3l3/matematica-2.mp4?rlkey=x2ol8p8486ddj5ooetkbh0d8d&st=z7i7l0u4&dl=0
-
-https://www.dropbox.com/scl/fi/31nikghfj72l1fzymtggo/matematica-3.mp4?rlkey=czhdrzlbk3chngk29cslvad7k&st=17tkjhuh&dl=0
-
-https://www.dropbox.com/scl/fi/82yew9yfruz3vp9dmftnf/matematica-4.mp4?rlkey=u4agr7ns5ablff8sdhqzlwbti&st=3i607wtm&dl=0
-
-https://www.dropbox.com/scl/fi/3olm45x2g6fvgnnrs5vaz/matematica-5.mp4?rlkey=gycc8obbralge77c4gyd1v97p&st=4s1rhk6c&dl=0
-
-https://www.dropbox.com/scl/fi/cc3oj3ti99oy1irdev852/matematica-6.mp4?rlkey=b98echkqkyvdcf5lr9vsqggpi&st=ua7lsya0&dl=0
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",Capítulo 6
+https://dl.dropbox.com/scl/fi/cc3oj3ti99oy1irdev852/matematica-6.mp4?rlkey=b98echkqkyvdcf5lr9vsqggpi&st=ua7lsya0&dl=1
