@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0sbrzbvc4mcyb926azaot/zombomeme02112025014721.jpg?rlkey=22pxn9gbcjthvjw0dl21iotb7&st=3ja8x40e&.jpeg",BFLIX
-https://dl.dropbox.com/scl/fi/0sbrzbvc4mcyb926azaot/zombomeme02112025014721.jpg?rlkey=22pxn9gbcjthvjw0dl21iotb7&st=3ja8x40e&.jpeg
 
 
 
@@ -25,6 +23,9 @@ https://dl.dropbox.com/scl/fi/oz5fu8yekra544cdhpgg6/fisica-1-6.mp4?rlkey=slxxh68
 https://dl.dropbox.com/scl/fi/mfdeua2rqy6vcekf4zzvf/fisica-1-7.mp4?rlkey=22alet9kb63ebjyt6dvti0zif&st=5u7m8jaa&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uZsV5ZIZQMHekWDQQMsBwN0C3yA.jpg",Capítulo 8
 https://dl.dropbox.com/scl/fi/jhhm79kvt0pmcrfzcgt3n/fisica-1-8.mp4?rlkey=82chmm7rznej53thb930semxu&st=fkz95tio&dl=1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&
+
 
 #EXTGRP:Season 2 (2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",Capítulo 1
@@ -43,6 +44,8 @@ https://dl.dropbox.com/scl/fi/7x3lqj36dddsvb8lpkv9s/naturales-2-6.mp4?rlkey=2fx3
 https://dl.dropbox.com/scl/fi/m4pitw1c4r1rjurs116v0/naturales-2-7.mp4?rlkey=dwa50owiawufq6uxh75tlxnbr&st=b446dbym&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",Capítulo 8
 https://dl.dropbox.com/scl/fi/po4xk5fkq754a9uyzc7hp/naturales-2-8.mp4?rlkey=rjkrd0wm0nxyr5xp536qf8tv5&st=qf15dit5&dl=1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&
 
 
 
@@ -67,12 +70,12 @@ https://dl.dropbox.com/scl/fi/1o3mbkaqerfoiqwpzbwcy/fisica-3-6.mp4?rlkey=km7olx0
 https://dl.dropbox.com/scl/fi/ov9tidnne95d62xwtrzbq/fisica-3-7.mp4?rlkey=h2n8sokbi7g5f0ac58d8e727s&st=soneunlt&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2UuhmubxEPMYtDOVBdiVi2fgx4e.jpg",Capítulo 8
 https://dl.dropbox.com/scl/fi/tn8o0ptd9sxy0epf2blh7/fisica-3-8.mp4?rlkey=3s0xe5jwptmzrl1pvm691loqi&st=e9dtezbd&dl=1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&
 
 
 
 #EXTGRP:Season 4 (2025)
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0sbrzbvc4mcyb926azaot/zombomeme02112025014721.jpg?rlkey=22pxn9gbcjthvjw0dl21iotb7&st=3ja8x40e&.jpeg",cap 0
-https://dl.dropbox.com/scl/fi/0sbrzbvc4mcyb926azaot/zombomeme02112025014721.jpg?rlkey=22pxn9gbcjthvjw0dl21iotb7&st=3ja8x40e&.jpeg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",Capítulo 1
 https://dl.dropbox.com/scl/fi/16u21xuwhwhpmfkip0gzp/sociales-4-1.mp4?rlkey=ab3us09zlhgw17t6yz1gvf3iw&st=lzldf9ft&dl=1
@@ -97,3 +100,9 @@ https://dl.dropbox.com/scl/fi/ahfzc2r9imro0z71m878u/sociales-4-7.mp4?rlkey=z8t9k
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",Capítulo 8
 https://dl.dropbox.com/scl/fi/twrqvtsv6colo1hu0e7va/sociales-4-8.mp4?rlkey=r4xuvvh13q5dwwzckmdfpakmz&st=3rfceluw&dl=1
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&
