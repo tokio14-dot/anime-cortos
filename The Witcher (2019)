@@ -10,7 +10,24 @@
 
 
 #EXTGRP:Season 3 (2023)
-
+#EXTM3U
+#EXTIMG:https://image.tmdb.org/t/p/original/2UuhmubxEPMYtDOVBdiVi2fgx4e.jpg
+#EXTINF:-1,Capítulo 1
+https://www.dropbox.com/scl/fi/obrjiwetm9dt8jmcrh33u/fisica-3-1.mp4?rlkey=4kgapbdkrecld5tjlonllofo7&st=w9tmnqwi&dl=1
+#EXTINF:-1,Capítulo 2
+https://www.dropbox.com/scl/fi/anm99h6e4n2r9bdlh4nc6/fisica-3-2.mp4?rlkey=c6eucgaa7lkvfp39ac7oec4rg&st=5ewaukew&dl=1
+#EXTINF:-1,Capítulo 3
+https://www.dropbox.com/scl/fi/ciyvz9ic9k6ye943rh8q0/fisica-3-3.mp4?rlkey=h9dl4uhs8gm7khoy9v370ex7m&st=9yjee1sz&dl=1
+#EXTINF:-1,Capítulo 4
+https://www.dropbox.com/scl/fi/ohpol0ratw9vxrgzav0hx/fisica-3-4.mp4?rlkey=zlowuzkuy94rt8zeabscuvs59&st=tjwmqyaf&dl=1
+#EXTINF:-1,Capítulo 5
+https://www.dropbox.com/scl/fi/mpsogaic1a8kbyzr6orj9/fisica-3-5.mp4?rlkey=pnxxxkxk6jv2udl35wdfrm9r6&st=o9dkvtgy&dl=1
+#EXTINF:-1,Capítulo 6
+https://www.dropbox.com/scl/fi/1o3mbkaqerfoiqwpzbwcy/fisica-3-6.mp4?rlkey=km7olx0pfcacdgqxho4zkmn97&st=1noy3txc&dl=1
+#EXTINF:-1,Capítulo 7
+https://www.dropbox.com/scl/fi/ov9tidnne95d62xwtrzbq/fisica-3-7.mp4?rlkey=h2n8sokbi7g5f0ac58d8e727s&st=soneunlt&dl=1
+#EXTINF:-1,Capítulo 8
+https://www.dropbox.com/scl/fi/tn8o0ptd9sxy0epf2blh7/fisica-3-8.mp4?rlkey=3s0xe5jwptmzrl1pvm691loqi&st=e9dtezbd&dl=1
 
 
 #EXTGRP:Season 4 (2025)
