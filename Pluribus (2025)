@@ -1,28 +1,41 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E1
+#EXTGRP: TEMP 1 (480p)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E1
 https://pomf2.lain.la/f/npavo842.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E2
 https://pomf2.lain.la/f/yutaa8l.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E3
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E6
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E7
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E8
+#EXTGRP: TEMP 1 (720p)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E1
+https://pomf2.lain.la/f/bmfik9lr.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",E2
+https://pomf2.lain.la/f/1hd3i9j.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E11
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u916ucKyBERoabOxrcdP3eypdJv.jpg"group-title="TEMPORADA 1",E12
+
+
+
+
+
 
 
 
