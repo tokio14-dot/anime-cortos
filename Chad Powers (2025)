@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg" group-title="Temporada 1",Capítulo 1
+http://pomf2.lain.la/f/68y5hgbg.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg" group-title="Temporada 1",Capítulo 2
+http://pomf2.lain.la/f/k5q95i0.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg" group-title="Temporada 1",Capítulo 3
+http://pomf2.lain.la/f/7tsmwlbc.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg" group-title="Temporada 1",Capítulo 4
+http://pomf2.lain.la/f/cwn7nz2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg" group-title="Temporada 1",Capítulo 5
+http://pomf2.lain.la/f/fzx6bj0q.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg" group-title="Temporada 1",Capítulo 6
+http://pomf2.lain.la/f/rag0isdk.mp4
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+BFLIX.NET
+
