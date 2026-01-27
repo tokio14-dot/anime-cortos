@@ -52,6 +52,93 @@ https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20D
 
 
 
+#EXTM3U x-tvg-url="" url-tvg=""
+#EXTM3U url-tvg="https://example.com/epg.xml" refresh="3600"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+#PLAYLIST:Malcolm el de en medio - Temporada 2
+#EXTIMG:https://image.tmdb.org/t/p/original/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg
+
+#EXTINF:-1 tvg-id="MalcolmS02E01" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x01",2x01 - La abuela
+#EXTVLCOPT:http-referrer=https://archive.org
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E01.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E02" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x02",2x02 - Humo
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E02.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E03" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x03",2x03 - Tatuajes
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E03.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E04" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x04",2x04 - El espectáculo de talentos
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E04.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E05" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x05",2x05 - El superhéroe
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E05.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E06" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x06",2x06 - El concurso de baile
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E06.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E07" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x07",2x07 - El ascensor
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E07.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E08" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x08",2x08 - La cena de Navidad
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E08.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E09" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x09",2x09 - Los nuevos vecinos
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E09.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E10" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x10",2x10 - El sueño
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E10.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E11" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x11",2x11 - Los médicos
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E11.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E12" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x12",2x12 - El concurso de cocina
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E12.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E13" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x13",2x13 - La terapia
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E13.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E14" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x14",2x14 - Los reyes del patio
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E14.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E15" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x15",2x15 - La vendedora
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E15.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E16" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x16",2x16 - La película de terror
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E16.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E17" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x17",2x17 - El nuevo coche
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E17.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E18" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x18",2x18 - Las clases particulares
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E18.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E19" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x19",2x19 - La casa embrujada
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E19.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E20" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x20",2x20 - La guerra de las madres
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E20.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E21" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x21",2x21 - El partido de fútbol
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E21.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E22" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x22",2x22 - El jardín de infancia
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E22.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E23" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x23",2x23 - El concurso de belleza
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E23.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E24" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x24",2x24 - El campo de golf
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E24.mp4
+
+#EXTINF:-1 tvg-id="MalcolmS02E25" tvg-logo="https://image.tmdb.org/t/p/w185/AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg" group-title="SERIES | COMEDIA" tvg-name="Malcolm 2x25",2x25 - La boda
+https://archive.org/download/malcolm-el-de-en-medio-s-02/Malcolm%20El%20De%20En%20Medio%20S02E25.mp4
+
+
+
+
+
 
 
 
