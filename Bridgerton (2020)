@@ -1,7 +1,21 @@
 #EXTM3U
-
-
-
+#EXTGRP: TEMPORADA 1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 1
+https://dl.dropbox.com/scl/fi/xny3cjn7r3ukkewl5x6xo/f-sica-1-1.mp4?rlkey=sqq5dpr8ekhkl16ca49kue0pt&st=1e2g08b4&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 2
+https://dl.dropbox.com/scl/fi/mvw9vv6hrfsk0pouzfrry/f-sica-1-2.mp4?rlkey=0stafopvtj8b3c4m5l988isqd&st=xczh8g71&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 3
+https://dl.dropbox.com/scl/fi/70sv5ihpjm6pe10utcvu3/f-sica-1-3.mp4?rlkey=9gb4sig7n85spmhnrxjpef5bv&st=o3lgz5lx&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 4
+https://dl.dropbox.com/scl/fi/2wb76f5q91rpvkm3p4uq1/f-sica-1-4.mp4?rlkey=3g1zz9tc8x9q0t8r13hgx1kt1&st=7jhth8l2&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 5
+https://dl.dropbox.com/scl/fi/lh4gzzp38jrfbe2o0dcur/f-sica-1-5.mp4?rlkey=iyi1l84jjz291tmj8gf5wqlks&st=e8z2l2fm&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 6
+https://dl.dropbox.com/scl/fi/1air4blypihzm52txifg6/f-sica-1-6.mp4?rlkey=v0icc3zbqr70x6gdrshbk5pvq&st=08uh68cf&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 7
+https://dl.dropbox.com/scl/fi/ldjyeo1fhdv3eg7hbfhsj/f-sica-1-7.mp4?rlkey=ca6btik1x0yia1tybsx2amwlp&st=wgfreipu&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",Capítulo 8
+https://dl.dropbox.com/scl/fi/z03x59guldzui662pnf6i/f-sica-1-8.mp4?rlkey=zcee4jpiz3wz49qioawr39jsf&st=0wapb7gh&dl=0
 
 #EXTGRP:TEMPORADA 2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",Capítulo 1
