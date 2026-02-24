@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTGRP:Temporada 1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X1 Secretos
+http://archive.org/download/0_20200424_202004/1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X2 Mentiras
+http://archive.org/download/0_20200424_202004/2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X3 Pasado y presente
+http://archive.org/download/0_20200424_202004/3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X4 Vidas dobles
+http://archive.org/download/0_20200424_202004/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X5 Verdades
+http://archive.org/download/0_20200424_202004/5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X6 Sic mundus creatus est
+http://archive.org/download/0_20200424_202004/6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X7 Encrucijadas
+http://archive.org/download/0_20200424_202004/7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X8 Lo que se siembra eso mismo se cosecha
+http://archive.org/download/0_20200424_202004/8.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X9 Todo ocurre ahora
+http://archive.org/download/0_20200424_202004/9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spN6icwSwuAuOcuZLC9bKjK6N2i.jpg",1X10 Alfa y omega
+http://archive.org/download/0_20200424_202004/10.mp4
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https://BFLIX.NET
+#EXTGRP:Temporada 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X1 Inicios y finales
+http://archive.org/download/0_20200424_202004/11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X2 Materia oscura
+http://archive.org/download/0_20200424_202004/12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X3 Fantasmas
+http://archive.org/download/0_20200424_202004/13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X4 Los viajeros
+http://archive.org/download/0_20200424_202004/14.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X5 Objetos perdidos
+http://archive.org/download/0_20200424_202004/15.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X6 Un ciclo sin fin
+http://archive.org/download/0_20200424_202004/16.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X7 El diablo blanco
+http://archive.org/download/0_20200424_202004/17.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg",2X8 Finales y comienzos
+http://archive.org/download/0_20200424_202004/18.mp4
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https://BFLIX.NET
+#EXTGRP:Temporada 3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X1 Deja vu
+https://dl.dropbox.com/scl/fi/1bz5ow4o4h187xqguwyr1/cultura-argenta-1.mp4?rlkey=2w7kkwivtzzaj2vfjppj6j5az&st=l486664z&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X2 Los sobrevivientes
+https://dl.dropbox.com/scl/fi/11gdl8as60788nlktzyty/cultura-argenta-2.mp4?rlkey=krzehpn7ymvojsrtvmh8doaux&st=qwgg8kdw&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X3 Adan y Eva
+https://dl.dropbox.com/scl/fi/zr9t0igesfuhrx119dl62/cultura-argenta-3.mp4?rlkey=oi95e82i7t6dbvne73r4cdu7z&st=658l0e3a&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X4 El origen
+https://dl.dropbox.com/scl/fi/v4lnltxlyh68sorflxn2f/cultura-argenta-4.mp4?rlkey=q83suvsiuzxs6v6rzpr2eelgu&st=kvvh7lgc&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X5 Vida y Muerte
+https://dl.dropbox.com/scl/fi/b9qmxygoj3g5k49o67opd/cultura-argenta-5.mp4?rlkey=xanjw1r2l85bh0yyikiv3bz8j&st=eiraslyj&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X6 Luces y Sombras
+https://dl.dropbox.com/scl/fi/tv0i4axhacqkpyqrti4tf/cultura-argenta-6.mp4?rlkey=me0jlc0gz7c81fh480nftyym2&st=bt3fjqbo&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X7 Entre Tiempos
+https://dl.dropbox.com/scl/fi/yuxmvy6pdvzkxtpnp5ute/cultura-argenta-7.mp4?rlkey=tx2vkuxezfsbnps044mr35264&st=xvpdd9sw&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Dk9V5K7IlFQTTHbuc6KvKWLD55.jpg",3X8 El paraiso
+https://dl.dropbox.com/scl/fi/r0gdkaawxrps0srxynv4r/cultura-argenta-8.mp4?rlkey=60n51eznpy4fdmvk17xuf8ud8&st=kutyhx7h&dl=1
+
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https://BFLIX.NET
