@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTIMG:https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg
-#PLAYLIST:En el barro (2025)
+
 #EXTGRP: TEMPORADA 1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",1 - La siembra
 https://archive.org/download/naturales-3_202508/naturales%20%281%29.mp4
