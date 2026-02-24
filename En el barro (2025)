@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTIMG:https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg
+#PLAYLIST:En el barro (2025)
+
 
 #EXTGRP: TEMPORADA 1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",1 - La siembra
@@ -27,22 +30,26 @@ https://archive.org/download/naturales-3_202508/naturales%20%288%29.mp4
 
 
 
-#EXTGRP:TEMPORADA 2
+#EXTGRP: TEMPORADA 2
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E1
 https://dl.dropbox.com/scl/fi/m4citkzo4rprn7a056pl0/f-sica-2-1.mp4?rlkey=6vhkerc89wvqb6kkq1z8ykx6f&st=it22hkmv&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E2
-
-
+https://dl.dropbox.com/scl/fi/exu08iqgrbeuuq8df86n7/sociales-2-1.mp4?rlkey=0g2g58wipxxofa5r17m7i1b0r&st=tt7chpt4&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E3
-
+https://dl.dropbox.com/scl/fi/fqyepckp47oa3h1xsduj9/sociales-2-2.mp4?rlkey=rc2ijjlhdy1gvek5q2001qhh6&st=1qi2b8wr&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E4
-
+https://dl.dropbox.com/scl/fi/28qvtu6revnozg6oo7bi6/sociales-2-3.mp4?rlkey=b3o726m1padq41w5yi3bzmx1m&st=pomxnbqu&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E5
-
+https://dl.dropbox.com/scl/fi/4iwihekwn3f198h2d6gf8/sociales-2-4.mp4?rlkey=25t5tz5rrnpbpfs90g18od3fa&st=br4yjiuy&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E6
-
+https://dl.dropbox.com/scl/fi/pkbjqeo7gwzyuzhfayfnh/sociales-2-5.mp4?rlkey=647nx8ncn8zqpaftoig634732&st=nnyi07c1&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E7
-
+https://dl.dropbox.com/scl/fi/yete9rb5dlqlpgmek55io/sociales-2-6.mp4?rlkey=tby5budbnpxqaupng7xp3enhq&st=4yr3ij89&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQANo4LO7Hi57XxQqhRWeAZkD5h.jpg",T2E8
+https://dl.dropbox.com/scl/fi/qx5gsb2ui4uti5o5m1m32/sociales-2-7.mp4?rlkey=efiga0621w4d29iim3zxpw4de&st=oeiiga2v&dl=0
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https://BFLIX.NET
+
+
 
