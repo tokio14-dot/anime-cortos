@@ -172,13 +172,53 @@ https://archive.org/download/fisica-6/fisica%20%2819%29.mp4
 
 #EXTGRP: TEMPORADA 5
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E1
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E2
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E3
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%283%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E4
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%284%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E5
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%285%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E6
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%286%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E7
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%287%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E8
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%288%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E9
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%289%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E10
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2810%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E11
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2811%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E12
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2812%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E13
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2813%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E14
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2814%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E15
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2815%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E16
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2816%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E17
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2817%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E18
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2818%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E19
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2819%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E20
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2820%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E21
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2821%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nysE6OtbhWeJHMP8WpiatiFGqog.jpg",T5E22
+https://archive.org/download/cuantica-16/cu%C3%A1ntica%20%2822%29.mp4
 
-
-
-
-
-
-
+#EXTGRP: TEMPORADA 6
 
 
 
